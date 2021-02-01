@@ -18,3 +18,5 @@ i3blocks scripts to monitor the system
 i m also using this configs and i3 window manager for my kali VM czz in virtul machine that lags a little bit when given low ram 
 so its usefull when you have low ram on your kali VM .
 
+Will Be Adding More Through Out The Journey 
+
